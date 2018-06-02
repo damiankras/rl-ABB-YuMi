@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rlsg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="rlsg.xsd">
+	<scene href="yumi_arm_l_boxes.wrl">
+		<model name="yumi">
+			<body name="link0L"/>
+			<body name="link1L"/>
+			<body name="link2L"/>
+			<body name="link3L"/>
+			<body name="link4L"/>
+			<body name="link5L"/>
+			<body name="link6L"/>
+			<body name="link7L"/>
+		</model>
+		<model name="boxes">
+			<body name=""/>
+		</model>
+	</scene>
+</rlsg>

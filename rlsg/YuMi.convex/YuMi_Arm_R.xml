@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rlsg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="rlsg.xsd">
+	<scene href="YuMi_Arm_R.wrl">
+		<model name="robot">
+			<body name="link0R"/>
+			<body name="link1R"/>
+			<body name="link2R"/>
+			<body name="link3R"/>
+			<body name="link4R"/>
+			<body name="link5R"/>
+			<body name="link6R"/>
+			<body name="link7R"/>
+		</model>
+	</scene>
+</rlsg>

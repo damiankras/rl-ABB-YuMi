@@ -1,0 +1,13 @@
+#VRML V2.0 utf8
+Transform {
+	children [
+		DEF yumi Transform {
+			children [
+				Inline { url "YuMi.convex/YuMi_Arm_L.wrl" }
+			]
+		}
+		DEF boxes Inline {
+			url "boxes.wrl"
+		}
+	]
+}

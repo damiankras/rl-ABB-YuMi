@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rlsg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="rlsg.xsd">
+	<scene href="YuMi.wrl">
+		<model name="robot">
+			<body name="link0R"/>
+			<body name="link1R"/>
+			<body name="link2R"/>
+			<body name="link3R"/>
+			<body name="link4R"/>
+			<body name="link5R"/>
+			<body name="link6R"/>
+			<body name="link7R"/>
+			
+			<body name="link0L"/>
+			<body name="link1L"/>
+			<body name="link2L"/>
+			<body name="link3L"/>
+			<body name="link4L"/>
+			<body name="link5L"/>
+			<body name="link6L"/>
+			<body name="link7L"/>
+		</model>
+	</scene>
+</rlsg>
